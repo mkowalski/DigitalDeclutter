@@ -8,7 +8,7 @@
   * use application blocking software
 * Understand these are optional technologies
   * No one will die if you don't check Twitter.
-  * That email from the recuriter can wait.
+  * That email from the recruiter can wait.
   * This isn't the best use of your time, fight the urge to be constantly connected.
 
 ## Rules
